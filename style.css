@@ -1,0 +1,26 @@
+
+body {
+  background:linear-gradient(#848CDC,#7DCCC9,#D485D5);
+
+}
+
+#r {
+  transform: translate(600%, 780%);
+  width: 50px;
+  position: fixed;
+  float: right;
+  border-radius: 20px;
+
+
+
+}
+
+#l {
+  transform: translate(0%, 780%);
+  width: 50px;
+  position: fixed;
+
+  border-radius: 20px;
+
+}
+
