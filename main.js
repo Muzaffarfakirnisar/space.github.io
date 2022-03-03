@@ -25,15 +25,15 @@ function background() {
 let s = new Image();
 let bg = new Image();
 let e = new Image();
-bg.src = 'img/bg.jpg';
+bg.src = 'bg.jpg';
 
-e.src = 'img/e.png';
-s.src = 'img/s.png';
+e.src = 'e.png';
+s.src = 's.png';
 // audio
 var over = new Audio();
 var shott = new Audio();
-shott.src = 'audio/shot.wav';
-over.src = "audio/o.wav";
+shott.src = 'shot.wav';
+over.src = "o.wav";
 
 // player
 class Player {
